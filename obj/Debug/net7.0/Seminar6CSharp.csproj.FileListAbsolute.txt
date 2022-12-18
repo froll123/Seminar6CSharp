@@ -1,0 +1,15 @@
+E:\Seminar6CSharp\Seminar6CSharp\bin\Debug\net7.0\Seminar6CSharp.exe
+E:\Seminar6CSharp\Seminar6CSharp\bin\Debug\net7.0\Seminar6CSharp.deps.json
+E:\Seminar6CSharp\Seminar6CSharp\bin\Debug\net7.0\Seminar6CSharp.runtimeconfig.json
+E:\Seminar6CSharp\Seminar6CSharp\bin\Debug\net7.0\Seminar6CSharp.dll
+E:\Seminar6CSharp\Seminar6CSharp\bin\Debug\net7.0\Seminar6CSharp.pdb
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\Seminar6CSharp.csproj.AssemblyReference.cache
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\Seminar6CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\Seminar6CSharp.AssemblyInfoInputs.cache
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\Seminar6CSharp.AssemblyInfo.cs
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\Seminar6CSharp.csproj.CoreCompileInputs.cache
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\Seminar6CSharp.dll
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\refint\Seminar6CSharp.dll
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\Seminar6CSharp.pdb
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\Seminar6CSharp.genruntimeconfig.cache
+E:\Seminar6CSharp\Seminar6CSharp\obj\Debug\net7.0\ref\Seminar6CSharp.dll
